@@ -1,2 +1,1 @@
-print("Hello World")
-print("Nandan Vihar")
+print("Hello World!")
